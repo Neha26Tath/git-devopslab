@@ -1,1 +1,2 @@
 this is common feature file
+new file
